@@ -1,5 +1,5 @@
 # Deep-learning-Image-Classification.
-This is a simple CNN traing model for hand writing digits classification/ Assignment 2 and Project of HKU ELEC4542
+This is the code of HKU ELEC4542: Introduction to Deep Learning for Computer Vision
 ## Assignment 2: SimpleCNN
 This code implements a simple CNN for hand-written digit classification
 ### Image Classification
